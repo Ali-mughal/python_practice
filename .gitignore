@@ -1,6 +1,6 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+#add git ignore file
+mypython-venv
+#
 *$py.class
 
 # C extensions
